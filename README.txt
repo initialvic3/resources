@@ -16,3 +16,7 @@ JS: (needed for some elements)
 
 
 ------------------
+Flexbox/ Bootstrap Grid 
+https://getbootstrap.com/docs/4.0/layout/grid/
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/#flexbox-background
+
